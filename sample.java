@@ -1,6 +1,6 @@
 class sample{
     public static void main(String[] args){
-        // printing statement in the java language//
+        // just statment print program//
 System.out.println("hello world");
     }
 }
