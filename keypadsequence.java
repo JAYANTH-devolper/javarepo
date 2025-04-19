@@ -1,3 +1,4 @@
+//printing keypad combination//
 public class keypadsequence{
     public static String keypad[]={".","abc","def","ghi","jkl","mno","pqrs","tu","vwx","yz"};
     public static void printComb(String str,int idx,String combination){
@@ -13,7 +14,7 @@ public class keypadsequence{
         }
     }
 public static void main(String[] args) {
-    String str="23";
+    String str="29";
     printComb(str, 0, "");
 }
 }
